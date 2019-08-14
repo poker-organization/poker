@@ -1,2 +1,2 @@
 # poker
-poker tests
+a small test game for poker
